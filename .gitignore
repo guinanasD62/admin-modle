@@ -1,0 +1,6 @@
+# compiled output
+/.next
+/node_modules
+.env
+package-lock.json
+next.config.js

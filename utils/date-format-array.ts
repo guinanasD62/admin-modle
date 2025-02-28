@@ -1,0 +1,36 @@
+export const dateFormats = [
+  { label: "dd MMM yyyy (01 Jan 2024)", value: "dd MMM yyyy" },
+  { label: "yyyy-MM-dd (2024-01-01)", value: "yyyy-MM-dd" },
+  { label: "dd/MM/yyyy (01/01/2024)", value: "dd/MM/yyyy" },
+  { label: "MM/dd/yyyy (01/01/2024)", value: "MM/dd/yyyy" },
+  { label: "yyyy/MM/dd (2024/01/01)", value: "yyyy/MM/dd" },
+  { label: "MM-dd-yyyy (01-01-2024)", value: "MM-dd-yyyy" },
+  
+  { label: "dd MMM yyyy h:mm a (01 Jan 2024 3:45 PM)", value: "dd MMM yyyy h:mm a" },
+  { label: "yyyy-MM-dd h:mm a (2024-01-01 3:45 PM)", value: "yyyy-MM-dd h:mm a" },
+  { label: "dd/MM/yyyy h:mm a (01/01/2024 3:45 PM)", value: "dd/MM/yyyy h:mm a" },
+  { label: "MM/dd/yyyy h:mm a (01/01/2024 3:45 PM)", value: "MM/dd/yyyy h:mm a" },
+  { label: "yyyy/MM/dd h:mm a (2024/01/01 3:45 PM)", value: "yyyy/MM/dd h:mm a" },
+  { label: "MM-dd-yyyy h:mm a (01-01-2024 3:45 PM)", value: "MM-dd-yyyy h:mm a" },
+
+  { label: "dd MMM yyyy HH:mm (01 Jan 2024 15:45)", value: "dd MMM yyyy HH:mm" },
+  { label: "yyyy-MM-dd HH:mm (2024-01-01 15:45)", value: "yyyy-MM-dd HH:mm" },
+  { label: "dd/MM/yyyy HH:mm (01/01/2024 15:45)", value: "dd/MM/yyyy HH:mm" },
+  { label: "MM/dd/yyyy HH:mm (01/01/2024 15:45)", value: "MM/dd/yyyy HH:mm" },
+  { label: "yyyy/MM/dd HH:mm (2024/01/01 15:45)", value: "yyyy/MM/dd HH:mm" },
+  { label: "MM-dd-yyyy HH:mm (01-01-2024 15:45)", value: "MM-dd-yyyy HH:mm" },
+
+  { label: "dd MMM yyyy h:mm:ss a (01 Jan 2024 3:45:30 PM)", value: "dd MMM yyyy h:mm:ss a" },
+  { label: "yyyy-MM-dd h:mm:ss a (2024-01-01 3:45:30 PM)", value: "yyyy-MM-dd h:mm:ss a" },
+  { label: "dd/MM/yyyy h:mm:ss a (01/01/2024 3:45:30 PM)", value: "dd/MM/yyyy h:mm:ss a" },
+  { label: "MM/dd/yyyy h:mm:ss a (01/01/2024 3:45:30 PM)", value: "MM/dd/yyyy h:mm:ss a" },
+  { label: "yyyy/MM/dd h:mm:ss a (2024/01/01 3:45:30 PM)", value: "yyyy/MM/dd h:mm:ss a" },
+  { label: "MM-dd-yyyy h:mm:ss a (01-01-2024 3:45:30 PM)", value: "MM-dd-yyyy h:mm:ss a" },
+
+  { label: "dd MMM yyyy HH:mm:ss (01 Jan 2024 15:45:30)", value: "dd MMM yyyy HH:mm:ss" },
+  { label: "yyyy-MM-dd HH:mm:ss (2024-01-01 15:45:30)", value: "yyyy-MM-dd HH:mm:ss" },
+  { label: "dd/MM/yyyy HH:mm:ss (01/01/2024 15:45:30)", value: "dd/MM/yyyy HH:mm:ss" },
+  { label: "MM/dd/yyyy HH:mm:ss (01/01/2024 15:45:30)", value: "MM/dd/yyyy HH:mm:ss" },
+  { label: "yyyy/MM/dd HH:mm:ss (2024/01/01 15:45:30)", value: "yyyy/MM/dd HH:mm:ss" },
+  { label: "MM-dd-yyyy HH:mm:ss (01-01-2024 15:45:30)", value: "MM-dd-yyyy HH:mm:ss" },
+];
